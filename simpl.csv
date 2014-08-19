@@ -1,0 +1,10 @@
+tcp,http,SF,0,1,0,0,0,0
+tcp,http,SF,0,1,0,0,0,0
+udp,domain_u,SF,0,0,0,0,0,0
+tcp,smtp,SF,0,1,0,0,0,0
+tcp,finger,SF,0,0,0,0,0,0
+tcp,smtp,SF,0,1,0,0,0,0
+udp,domain_u,SF,0,0,0,0,0,0
+tcp,ftp_data,SF,0,0,0,0,0,0
+tcp,smtp,SF,0,1,0,0,0,0
+tcp,smtp,SF,0,1,0,0,0,0
