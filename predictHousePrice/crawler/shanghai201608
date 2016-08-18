@@ -1,0 +1,1002 @@
+[
+    {
+        "url": "http://shanghai.anjuke.com/sale/biyun/", 
+        "town": "碧云", 
+        "area": "浦东"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/beicai/", 
+        "town": "北蔡", 
+        "area": "浦东"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/caolu/", 
+        "town": "曹路", 
+        "area": "浦东"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/chuansha/", 
+        "town": "川沙", 
+        "area": "浦东"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/gaoxing/", 
+        "town": "高行", 
+        "area": "浦东"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/hangtou/", 
+        "town": "航头", 
+        "area": "浦东"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/huinan/", 
+        "town": "惠南", 
+        "area": "浦东"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/huamu/", 
+        "town": "花木", 
+        "area": "浦东"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/jinqiao/", 
+        "town": "金桥", 
+        "area": "浦东"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/jinyangd/", 
+        "town": "金杨", 
+        "area": "浦东"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/kangqiao/", 
+        "town": "康桥", 
+        "area": "浦东"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/lujiazui/", 
+        "town": "陆家嘴", 
+        "area": "浦东"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/lingangxincheng/", 
+        "town": "临港新城", 
+        "area": "浦东"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/lianyang/", 
+        "town": "联洋", 
+        "area": "浦东"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/liuli/", 
+        "town": "六里", 
+        "area": "浦东"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/meiyuana/", 
+        "town": "梅园", 
+        "area": "浦东"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/nanmatou/", 
+        "town": "南码头", 
+        "area": "浦东"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/nicheng/", 
+        "town": "泥城", 
+        "area": "浦东"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/pudongwaihuan/", 
+        "town": "浦东外环", 
+        "area": "浦东"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/shijigongyuan/", 
+        "town": "世纪公园", 
+        "area": "浦东"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/shibobinjianga/", 
+        "town": "世博滨江", 
+        "area": "浦东"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/shangnan/", 
+        "town": "上南", 
+        "area": "浦东"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/sanlin/", 
+        "town": "三林", 
+        "area": "浦东"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/tangqiao/", 
+        "town": "塘桥", 
+        "area": "浦东"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/tangzhen/", 
+        "town": "唐镇", 
+        "area": "浦东"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/waigaoqiao/", 
+        "town": "外高桥", 
+        "area": "浦东"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/weifanga/", 
+        "town": "潍坊", 
+        "area": "浦东"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/xinchang/", 
+        "town": "新场", 
+        "area": "浦东"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/yangdong/", 
+        "town": "杨东", 
+        "area": "浦东"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/yuanshen/", 
+        "town": "源深", 
+        "area": "浦东"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/yangjing/", 
+        "town": "洋泾", 
+        "area": "浦东"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/zhoupu/", 
+        "town": "周浦", 
+        "area": "浦东"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/zhuqiao/", 
+        "town": "祝桥", 
+        "area": "浦东"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/zhangjiang/", 
+        "town": "张江", 
+        "area": "浦东"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/chunshen/", 
+        "town": "春申", 
+        "area": "闵行"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/gumeiluoyang/", 
+        "town": "古美罗阳", 
+        "area": "闵行"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/hanghua/", 
+        "town": "航华", 
+        "area": "闵行"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/huacao/", 
+        "town": "华漕", 
+        "area": "闵行"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/jinganxincheng/", 
+        "town": "静安新城", 
+        "area": "闵行"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/jinhongqiao/", 
+        "town": "金虹桥", 
+        "area": "闵行"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/jiangchuanlu/", 
+        "town": "江川路", 
+        "area": "闵行"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/longbaijinhui/", 
+        "town": "龙柏金汇", 
+        "area": "闵行"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/longming/", 
+        "town": "龙茗", 
+        "area": "闵行"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/meilong/", 
+        "town": "梅陇", 
+        "area": "闵行"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/maqiao/", 
+        "town": "马桥", 
+        "area": "闵行"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/pujiang/", 
+        "town": "浦江", 
+        "area": "闵行"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/qibao/", 
+        "town": "七宝", 
+        "area": "闵行"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/wujing/", 
+        "town": "吴泾", 
+        "area": "闵行"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/xinzhuang/", 
+        "town": "莘庄", 
+        "area": "闵行"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/zhuanqiao/", 
+        "town": "颛桥", 
+        "area": "闵行"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/binjiange/", 
+        "town": "滨江", 
+        "area": "徐汇"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/changqiao/", 
+        "town": "长桥", 
+        "area": "徐汇"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/fuxingzhonglu/", 
+        "town": "复兴中路", 
+        "area": "徐汇"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/huaihaixilu/", 
+        "town": "淮海西路", 
+        "area": "徐汇"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/huadongligong/", 
+        "town": "华东理工", 
+        "area": "徐汇"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/huajing/", 
+        "town": "华泾", 
+        "area": "徐汇"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/hunanlub/", 
+        "town": "湖南路", 
+        "area": "徐汇"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/jianguoxilu/", 
+        "town": "建国西路", 
+        "area": "徐汇"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/kangjian/", 
+        "town": "康健", 
+        "area": "徐汇"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/longhua/", 
+        "town": "龙华", 
+        "area": "徐汇"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/shanghainanzhan/", 
+        "town": "上海南站", 
+        "area": "徐汇"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/tianlin/", 
+        "town": "田林", 
+        "area": "徐汇"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/wantiguan/", 
+        "town": "万体馆", 
+        "area": "徐汇"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/xujiahui/", 
+        "town": "徐家汇", 
+        "area": "徐汇"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/xietulu/", 
+        "town": "斜土路", 
+        "area": "徐汇"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/zhaojiabanglu/", 
+        "town": "肇嘉浜路", 
+        "area": "徐汇"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/zhiwuyuan/", 
+        "town": "植物园", 
+        "area": "徐汇"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/changshoulu/", 
+        "town": "长寿路", 
+        "area": "普陀"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/changfeng/", 
+        "town": "长风", 
+        "area": "普陀"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/caoyang/", 
+        "town": "曹杨", 
+        "area": "普陀"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/changzheng/", 
+        "town": "长征", 
+        "area": "普陀"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/guangxin/", 
+        "town": "光新", 
+        "area": "普陀"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/ganquanyichuan/", 
+        "town": "甘泉宜川", 
+        "area": "普陀"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/taopu/", 
+        "town": "桃浦", 
+        "area": "普陀"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/wuning/", 
+        "town": "武宁", 
+        "area": "普陀"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/wanli/", 
+        "town": "万里", 
+        "area": "普陀"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/zhongyuanliangwancheng/", 
+        "town": "中远两湾城", 
+        "area": "普陀"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/zhenguang/", 
+        "town": "真光", 
+        "area": "普陀"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/zhenru/", 
+        "town": "真如", 
+        "area": "普陀"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/beixinjing/", 
+        "town": "北新泾", 
+        "area": "长宁"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/dongwuyuan/", 
+        "town": "动物园", 
+        "area": "长宁"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/gubei/", 
+        "town": "古北", 
+        "area": "长宁"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/hongqiaolu/", 
+        "town": "虹桥路", 
+        "area": "长宁"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/tianshan/", 
+        "town": "天山", 
+        "area": "长宁"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/xinhualu/", 
+        "town": "新华路", 
+        "area": "长宁"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/xianxia/", 
+        "town": "仙霞", 
+        "area": "长宁"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/zhongshangongyuan/", 
+        "town": "中山公园", 
+        "area": "长宁"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/zhenninglu/", 
+        "town": "镇宁路", 
+        "area": "长宁"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/caojiadu/", 
+        "town": "曹家渡", 
+        "area": "静安"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/jingansi/", 
+        "town": "静安寺", 
+        "area": "静安"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/jiangninglu/", 
+        "town": "江宁路", 
+        "area": "静安"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/nanjingxilu/", 
+        "town": "南京西路", 
+        "area": "静安"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/dongjiadu/", 
+        "town": "董家渡", 
+        "area": "黄浦"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/huangpubinjiang/", 
+        "town": "黄浦滨江", 
+        "area": "黄浦"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/laoximen/", 
+        "town": "老西门", 
+        "area": "黄浦"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/nanjingdonglu/", 
+        "town": "南京东路", 
+        "area": "黄浦"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/penglaigongyuan/", 
+        "town": "蓬莱公园", 
+        "area": "黄浦"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/renminguangchang/", 
+        "town": "人民广场", 
+        "area": "黄浦"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/yuyuan/", 
+        "town": "豫园", 
+        "area": "黄浦"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/dapuqiao/", 
+        "town": "打浦桥", 
+        "area": "卢湾"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/fuxinggongyuan/", 
+        "town": "复兴公园", 
+        "area": "卢湾"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/huaihaizhonglu/", 
+        "town": "淮海中路", 
+        "area": "卢湾"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/shibobinjiang/", 
+        "town": "世博滨江", 
+        "area": "卢湾"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/wuliqiao/", 
+        "town": "五里桥", 
+        "area": "卢湾"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/xintiandi/", 
+        "town": "新天地", 
+        "area": "卢湾"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/beiwaitan/", 
+        "town": "北外滩", 
+        "area": "虹口"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/hepinggongyuan/", 
+        "town": "和平公园", 
+        "area": "虹口"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/jiangwanzhen/", 
+        "town": "江湾镇", 
+        "area": "虹口"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/linpinglu/", 
+        "town": "临平路", 
+        "area": "虹口"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/luxungongyuan/", 
+        "town": "鲁迅公园", 
+        "area": "虹口"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/liangcheng/", 
+        "town": "凉城", 
+        "area": "虹口"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/quyang/", 
+        "town": "曲阳", 
+        "area": "虹口"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/sichuanbeilu/", 
+        "town": "四川北路", 
+        "area": "虹口"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/daninglvdi/", 
+        "town": "大宁绿地", 
+        "area": "闸北"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/pengpu/", 
+        "town": "彭浦", 
+        "area": "闸北"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/xinkezhan/", 
+        "town": "新客站", 
+        "area": "闸北"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/xizangbeilu/", 
+        "town": "西藏北路", 
+        "area": "闸北"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/yangchengyonghe/", 
+        "town": "阳城永和", 
+        "area": "闸北"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/zhabeigongyuan/", 
+        "town": "闸北公园", 
+        "area": "闸北"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/anshan/", 
+        "town": "鞍山", 
+        "area": "杨浦"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/dongwaitan/", 
+        "town": "东外滩", 
+        "area": "杨浦"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/huangxinggongyuan/", 
+        "town": "黄兴公园", 
+        "area": "杨浦"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/kongjianglu/", 
+        "town": "控江路", 
+        "area": "杨浦"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/wujiaochang/", 
+        "town": "五角场", 
+        "area": "杨浦"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/xinjiangwancheng/", 
+        "town": "新江湾城", 
+        "area": "杨浦"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/yangpugongyuan/", 
+        "town": "杨浦公园", 
+        "area": "杨浦"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/yangpudaqiao/", 
+        "town": "杨浦大桥", 
+        "area": "杨浦"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/zhoujiazuilu/", 
+        "town": "周家嘴路", 
+        "area": "杨浦"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/zhongyuanshequ/", 
+        "town": "中原社区", 
+        "area": "杨浦"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/dachang/", 
+        "town": "大场", 
+        "area": "宝山"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/dahua/", 
+        "town": "大华", 
+        "area": "宝山"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/gongkang/", 
+        "town": "共康", 
+        "area": "宝山"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/gaojing/", 
+        "town": "高境", 
+        "area": "宝山"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/gucun/", 
+        "town": "顾村", 
+        "area": "宝山"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/gongfu/", 
+        "town": "共富", 
+        "area": "宝山"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/luodian/", 
+        "town": "罗店", 
+        "area": "宝山"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/luojing/", 
+        "town": "罗泾", 
+        "area": "宝山"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/shangda/", 
+        "town": "上大", 
+        "area": "宝山"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/sitang/", 
+        "town": "泗塘", 
+        "area": "宝山"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/songnan/", 
+        "town": "淞南", 
+        "area": "宝山"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/songbao/", 
+        "town": "淞宝", 
+        "area": "宝山"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/tonghea/", 
+        "town": "通河", 
+        "area": "宝山"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/yuepu/", 
+        "town": "月浦", 
+        "area": "宝山"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/yanghang/", 
+        "town": "杨行", 
+        "area": "宝山"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/zhangmiao/", 
+        "town": "张庙", 
+        "area": "宝山"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/chedun/", 
+        "town": "车墩", 
+        "area": "松江"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/dongjing/", 
+        "town": "洞泾", 
+        "area": "松江"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/jiuting/", 
+        "town": "九亭", 
+        "area": "松江"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/songjiangxincheng/", 
+        "town": "松江新城", 
+        "area": "松江"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/songjiangchengqu/", 
+        "town": "松江城区", 
+        "area": "松江"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/sijing/", 
+        "town": "泗泾", 
+        "area": "松江"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/songjianglaocheng/", 
+        "town": "松江老城", 
+        "area": "松江"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/sheshan/", 
+        "town": "佘山", 
+        "area": "松江"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/songjiangdaxuecheng/", 
+        "town": "松江大学城", 
+        "area": "松江"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/xinqiao/", 
+        "town": "新桥", 
+        "area": "松江"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/xinmin/", 
+        "town": "莘闵", 
+        "area": "松江"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/xiaokunshan/", 
+        "town": "小昆山", 
+        "area": "松江"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/anting/", 
+        "town": "安亭", 
+        "area": "嘉定"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/fengzhuang/", 
+        "town": "丰庄", 
+        "area": "嘉定"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/jiadingxincheng/", 
+        "town": "嘉定新城", 
+        "area": "嘉定"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/jiadingchengqu/", 
+        "town": "嘉定城区", 
+        "area": "嘉定"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/jiangqiaoxincheng/", 
+        "town": "江桥新城", 
+        "area": "嘉定"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/jiadingzhen/", 
+        "town": "嘉定镇", 
+        "area": "嘉定"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/juyuanxinqua/", 
+        "town": "菊园新区", 
+        "area": "嘉定"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/nanxiang/", 
+        "town": "南翔", 
+        "area": "嘉定"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/zhenxin/", 
+        "town": "真新", 
+        "area": "嘉定"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/baihe/", 
+        "town": "白鹤", 
+        "area": "青浦"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/chonggu/", 
+        "town": "重固", 
+        "area": "青浦"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/huanxin/", 
+        "town": "华新", 
+        "area": "青浦"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/qingpubeibu/", 
+        "town": "青浦北部", 
+        "area": "青浦"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/qingpuxincheng/", 
+        "town": "青浦新城", 
+        "area": "青浦"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/xujing/", 
+        "town": "徐泾", 
+        "area": "青浦"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/zhaoxiang/", 
+        "town": "赵巷", 
+        "area": "青浦"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/zhujiajiao/", 
+        "town": "朱家角", 
+        "area": "青浦"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/fengcheng/", 
+        "town": "奉城", 
+        "area": "奉贤"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/haiwanlvyouqu/", 
+        "town": "海湾旅游区", 
+        "area": "奉贤"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/haiwana/", 
+        "town": "海湾", 
+        "area": "奉贤"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/jinhui/", 
+        "town": "金汇", 
+        "area": "奉贤"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/nanqiao/", 
+        "town": "南桥", 
+        "area": "奉贤"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/xidu/", 
+        "town": "西渡", 
+        "area": "奉贤"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/zhelin/", 
+        "town": "柘林", 
+        "area": "奉贤"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/zhuanghang/", 
+        "town": "庄行", 
+        "area": "奉贤"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/caojing/", 
+        "town": "漕泾", 
+        "area": "金山"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/fengjing/", 
+        "town": "枫泾", 
+        "area": "金山"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/jinshanzhongbu/", 
+        "town": "金山中部", 
+        "area": "金山"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/jinshanxincheng/", 
+        "town": "金山新城", 
+        "area": "金山"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/shihua/", 
+        "town": "石化", 
+        "area": "金山"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/tinglin/", 
+        "town": "亭林", 
+        "area": "金山"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/zhujing/", 
+        "town": "朱泾", 
+        "area": "金山"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/baozhen/", 
+        "town": "堡镇", 
+        "area": "崇明"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/chengqiaozheng/", 
+        "town": "城桥镇", 
+        "area": "崇明"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/chongminga/", 
+        "town": "崇明", 
+        "area": "崇明"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/chongmingxincheng/", 
+        "town": "崇明新城", 
+        "area": "崇明"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/chenjiazhen/", 
+        "town": "陈家镇", 
+        "area": "崇明"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/changxingdao/", 
+        "town": "长兴岛", 
+        "area": "崇明"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/chongmingqita/", 
+        "town": "崇明其他", 
+        "area": "崇明"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/hengshadao/", 
+        "town": "横沙岛", 
+        "area": "崇明"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/jiaxinga/", 
+        "town": "嘉兴", 
+        "area": "上海周边"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/kunshanc/", 
+        "town": "昆山", 
+        "area": "上海周边"
+    }, 
+    {
+        "url": "http://shanghai.anjuke.com/sale/suzhoub/", 
+        "town": "苏州", 
+        "area": "上海周边"
+    }
+]
