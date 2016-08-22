@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4122141c-7e6c-4bc5-abc8-1ebfdf95d671" name="Default" comment="新增README.MD文档介绍房价分析程序">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/analysisHousePrice/analysisHousePrice.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
     </list>
     <ignored path="PythonLearn.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -63,8 +62,8 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.37261146">
-                <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+              <first_editor vertical-scroll-proportion="0.80254775">
+                <caret line="28" column="160" selection-start-line="0" selection-start-column="0" selection-end-line="28" selection-end-column="160" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -975,7 +974,7 @@
       <workItem from="1471752606675" duration="149000" />
       <workItem from="1471754147829" duration="26500000" />
       <workItem from="1471835906453" duration="750000" />
-      <workItem from="1471864975723" duration="427000" />
+      <workItem from="1471864975723" duration="1091000" />
     </task>
     <task id="LOCAL-00001" summary="新增安居客上海二手房爬虫">
       <created>1471510173924</created>
@@ -1035,7 +1034,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111767000" />
+    <option name="totallyTimeSpent" value="112431000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1204" extended-state="6" />
@@ -1555,8 +1554,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.37261146">
-            <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <first_editor vertical-scroll-proportion="0.80254775">
+            <caret line="28" column="160" selection-start-line="0" selection-start-column="0" selection-end-line="28" selection-end-column="160" />
             <folding />
           </first_editor>
           <second_editor />
