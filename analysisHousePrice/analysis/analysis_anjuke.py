@@ -18,7 +18,7 @@ sys.setdefaultencoding('utf8')
 matplotlib.rcParams['font.family'] = 'serif'
 
 
-def autolabel(ax, offset,orient='v'):
+def autolabel(ax, offset, orient='v'):
     # attach some text labels
     if orient == 'v':
         for rect in ax.patches:
@@ -27,7 +27,7 @@ def autolabel(ax, offset,orient='v'):
     else:
         for rect in ax.patches:
             width = rect.get_width()
-            ax.text(width + offset, rect.get_y() + rect.get_height() / 2., '%0.1f' % width, ha='center', va='bottom')
+            ax.text(width + offset, rect.get_y() + rect.get_height() / 2., '%0.1f' % width, ha='left', va='center')
 
 
 def exec_sql(sql, conn):
@@ -64,7 +64,7 @@ def anlysis_area_avg(province, cur_month, conn):
 
 def get_all_data(province, cur_month, conn):
     data = pd.read_sql_query(
-            'select area,town,estate,price  from anjuke_house_%s_%s' % (province, cur_month), conn)
+            'select area,town,estate,price  from anjuke_house_%s_%s limit 1000' % (province, cur_month), conn)
     data['area'] = [area.encode('utf8') for area in data['area']]
     data['town'] = [town.encode('utf8') for town in data['town']]
     data['estate'] = [estate.encode('utf8') for estate in data['estate']]
@@ -72,16 +72,17 @@ def get_all_data(province, cur_month, conn):
 
 
 def estates_top10(data, price_type='expensive'):
-    is_cheap = True if price_type =='cheap' else False
-    estate_price = data.groupby(['area', 'town', 'estate']).mean()
+    is_cheap = True if price_type == 'cheap' else False
+    data['address'] = data.apply(lambda x: (x.area + x.town + x.estate).encode('utf8'), axis=1)
+    estate_price = data[['address', 'price']]
+    estate_price = estate_price.groupby('address', as_index=False).agg([np.size, np.mean])
+    estate_price = estate_price['price']
+    estate_price = estate_price.rename(columns={'mean': 'price'})
+    estate_price = estate_price[estate_price['size'] > 3]  # 数据量太少的小区，过滤
+    estate_price = estate_price[['price']]
     estate_price = estate_price.sort_values(by='price', ascending=is_cheap)
     estate_price = estate_price[:10]
-    address = [''.join(keys).encode('utf8') for keys, value in estate_price.iterrows()]
-    address = np.asarray(address)
-    estate_price['address'] = address
-    # estate_price.set_index('address')
-    # df.plot(kind='bar')
-    ax = sns.barplot(y=estate_price['address'], x=estate_price['price'], orient='h')
+    ax = sns.barplot(y=estate_price.index, x=estate_price['price'], orient='h')
     autolabel(ax, 15, orient='h')
     plt.title(u'最便宜小区Top 10' if is_cheap else u'最贵小区Top 10')
     plt.xlabel(u"小区")
@@ -108,9 +109,10 @@ cur_month = date.today().strftime('%Y%m')
 
 conn = MySQLdb.connect(host='localhost', user='root', passwd='xing123', db='houses', charset='utf8', port=3306)
 # anlysis_all_avg(province, cur_month, conn)
-anlysis_area_avg(province, cur_month, conn)
+# anlysis_area_avg(province, cur_month, conn)
 
 data = get_all_data(province, cur_month, conn)
+
 estates_top10(data, price_type='cheap')
 estates_top10(data, price_type='expensive')
 
