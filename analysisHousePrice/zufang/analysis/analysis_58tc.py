@@ -1,5 +1,5 @@
 # -*- coding=utf-8 -*-
-# 安居客数据分析与可视化
+# ５８同城数据分析与可视化
 import sys
 from operator import itemgetter
 from optparse import OptionParser
@@ -37,7 +37,7 @@ def exec_sql(sql, conn):
 
 # 分析整体均值
 def anlysis_all_avg(cur_month, conn):
-    data = pd.read_sql_query('select avg(price) as avg from anjuke_house_%s_%s' % (province, cur_month), conn)
+    data = pd.read_sql_query('select avg(price) as avg from anjuke_ershou_house_%s_%s' % (province, cur_month), conn)
     avg = data['avg'][0]
     print 'avg = %f' % avg
     return avg
@@ -46,7 +46,7 @@ def anlysis_all_avg(cur_month, conn):
 # 分析区域均值
 def anlysis_area_avg(province, cur_month, conn):
     data = pd.read_sql_query(
-            'select area, avg(price) as avg from anjuke_house_%s_%s GROUP BY area' % (province, cur_month), conn)
+            'select area, avg(price) as avg from 58tc_zufang_house_%s_%s GROUP BY area' % (province, cur_month), conn)
     data['area'] = [area.encode('utf8') for area in data['area']]
     data = data.sort_values(by='avg', ascending=False)
 
@@ -64,7 +64,7 @@ def anlysis_area_avg(province, cur_month, conn):
 
 def get_all_data(province, cur_month, conn):
     data = pd.read_sql_query(
-            'select area,town,estate,price  from anjuke_house_%s_%s limit 1000' % (province, cur_month), conn)
+            'select area,town,estate,price  from 58tc_zufang_house_%s_%s limit 1000' % (province, cur_month), conn)
     data['area'] = [area.encode('utf8') for area in data['area']]
     data['town'] = [town.encode('utf8') for town in data['town']]
     data['estate'] = [estate.encode('utf8') for estate in data['estate']]

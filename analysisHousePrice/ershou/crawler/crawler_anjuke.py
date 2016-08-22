@@ -144,18 +144,18 @@ def exec_sql(sql, conn):
 
 
 def init_table(province, cur_month, conn):
-    exec_sql('drop table if exists anjuke_house_%s_%s' % (province, cur_month), conn)
+    exec_sql('drop table if exists anjuke_ershou_house_%s_%s' % (province, cur_month), conn)
     exec_sql(
-        'create table anjuke_house_%s_%s (id INT PRIMARY KEY AUTO_INCREMENT,area VARCHAR(30), town VARCHAR(30),estate VARCHAR(40),price INT)' % (province, cur_month),
+        'create table anjuke_ershou_house_%s_%s (id INT PRIMARY KEY AUTO_INCREMENT,area VARCHAR(30), town VARCHAR(30),estate VARCHAR(40),price INT)' % (province, cur_month),
         conn)
-    exec_sql('alter table anjuke_house_%s_%s AUTO_INCREMENT=1' % (province, cur_month), conn)
+    exec_sql('alter table anjuke_ershou_house_%s_%s AUTO_INCREMENT=1' % (province, cur_month), conn)
 
 
 def load_house_json_to_db(house_json_path, cur_month, conn):
     houses = json.load(open(house_json_path, 'r'))
     if len(houses) == 0:
         return
-    head = 'insert into anjuke_house_%s_%s (area,town,estate,price) VALUES ' % (province, cur_month)
+    head = 'insert into anjuke_ershou_house_%s_%s (area,town,estate,price) VALUES ' % (province, cur_month)
     values = []
     for house in sorted(houses, key=itemgetter('estate')):
         values.append('(\'%s\',\'%s\',\'%s\',%d)' % (
