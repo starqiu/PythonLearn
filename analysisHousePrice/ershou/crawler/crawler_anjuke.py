@@ -13,10 +13,13 @@ import MySQLdb
 import re
 import os
 from optparse import OptionParser
-
+# from multiprocessing import Pool
+# from multiprocessing.dummy import Pool as ThreadPool
 
 reload(sys)
 sys.setdefaultencoding('utf8')
+# pool = ThreadPool(4)
+
 
 
 def get_areas(url_province):
