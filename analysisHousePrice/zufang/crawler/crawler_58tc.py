@@ -201,7 +201,7 @@ parser.add_option("-c", "--crawler_houses", dest="crawler_houses", action="store
                   help="crawler towns")
 parser.add_option("-l", "--load", dest="load_data_into_db", action="store_true", default=False,
                   help="load data into db")
-parser.print_help()
+
 (options, args) = parser.parse_args()
 
 workspace = options.workspace
