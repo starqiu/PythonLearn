@@ -102,7 +102,7 @@ parser.add_option("-p", "--province", dest="province", action="store", type="str
 
 workspace = options.workspace
 province = options.province
-
+parser.print_help()
 print 'workspace =%s,  province =%s' % (workspace, province)
 
 cur_month = date.today().strftime('%Y%m')

@@ -209,7 +209,7 @@ parser.add_option("-l", "--load", dest="load_data_into_db", action="store_true",
 
 workspace = options.workspace
 province = options.province
-
+parser.print_help()
 print 'workspace =%s,province =%s' % (workspace, province)
 
 cur_month = date.today().strftime('%Y%m')

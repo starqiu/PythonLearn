@@ -97,7 +97,7 @@ parser.add_option("-w", "--workspace", dest="workspace", action="store", type="s
                   help="workspace to store data", metavar="FILE")
 parser.add_option("-p", "--province", dest="province", action="store", type="string", default='beijing',
                   help="province that we will crawer")
-
+parser.print_help()
 (options, args) = parser.parse_args()
 
 workspace = options.workspace
