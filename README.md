@@ -24,7 +24,7 @@ the cases of self-learning python
 #### 各个区域均值
 #### Top10小区（最贵＆最便宜）
 
-# JDAnalysis（阿里简历分析）
+# JDAnalysis（阿里招聘分析）
 分析阿里对微服务技能的需求。结果发现还是云计算相关部门需求大。
 
 # AnnotationAutoComplete（注释信息自动补全）
